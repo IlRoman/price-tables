@@ -3,8 +3,13 @@
   font-family: Montserrat;
 }
 
-body {
+.container {
+  width: 1440px;
+  height: 1000px;
   background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .price-tables {
