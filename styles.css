@@ -79,6 +79,7 @@
   margin-top: 37px;
 }
 .price-card__order-btn button {
+  color: white;
   width: 155px;
   height: 40px;
   border: none;
