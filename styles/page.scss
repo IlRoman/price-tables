@@ -3,6 +3,12 @@
   font-family: Montserrat;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .container {
   width: 1440px;
   height: 1000px;
@@ -89,6 +95,8 @@
       height: 40px;
       border: none;
       border-radius: 20px;
+      line-height: 40px;
+      font-size: 14px;
     }
   }
 
